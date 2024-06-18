@@ -27,5 +27,5 @@ export default defineConfig({
 		icon(),
 	],
 	site: 'https://alexsab-ru.github.io',
-	base: "/belgee-samara.ru"
+	base: "/belgee-samara.ru/"
 });
