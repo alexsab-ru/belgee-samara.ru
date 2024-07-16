@@ -26,6 +26,6 @@ export default defineConfig({
 		mdx(),
 		icon(),
 	],
-	site: 'https://alexsab-ru.github.io',
-	base: "/belgee-samara.ru/"
+	site: 'https://belgee-samara.ru',
+	base: "/"
 });

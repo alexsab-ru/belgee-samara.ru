@@ -1,20 +1,20 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
 // Название сайта по умолчанию
-export const SITE_NAME = 'Название сайта';
+export const SITE_NAME = 'Белджи Самара';
 // Юр лицо
-export const LEGAL_ENTITY = 'ООО «Юридическое название»';
+export const LEGAL_ENTITY = 'ООО «Центр на Московском»';
 // ИНН
-export const LEGAL_INN = '1234567890';
+export const LEGAL_INN = '6319214167';
 // Город
 export const LEGAL_CITY = 'г. Самара';
 // где? в Городе
 export const LEGAL_CITY_WHERE = 'Самаре';
 // Описание сайта по умолчанию
-export const SITE_DESCR = 'Официальный дилерский центр';
+export const SITE_DESCR = 'Официальный дилерский центр Белджи в Самаре';
 // Имя пользователя в Телегам
 export const TELEGRAM = '';
 // Телефон по умолчанию
-export const PHONE = '+7 (999) 000-00-00';
+export const PHONE = '+7 (846) 377-73-00';
 // Бренд
 export const BRAND = 'BELGEE';
 // Конечное время для таймера
@@ -23,7 +23,7 @@ export const TIMER_ENDTIME = '';
 // Ссылка яндекс-виджета
 export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 // Ссылка организации для виджета
-export const LINK_WIDGET_ORGNIZATION = '';
+export const LINK_WIDGET_ORGNIZATION = 'CDSJQJ9Z';
 // Ссылки под хедером
 export const LINKS_MENU = [
 	// {url: 'cars/', name: 'Авто в наличии'},
