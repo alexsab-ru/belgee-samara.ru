@@ -115,6 +115,44 @@
 		<priceWithDiscount>2415990</priceWithDiscount><sale_price>2415990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-satin-silve-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Style</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый(Crystal White)</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2415990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<registry_year>2024</registry_year>
+			<vin>Y4K8622Z5RB931851</vin>
+			<description />
+			<images>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/76c5c9257d761f57736a45f428b8ca96.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/60ced8c5229c277aef7c8efd66f50ae8.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/d3538d05c421c9300bc1f199e1dc9b0a.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/e47b08e6af41eb4d54c6512c3f613091.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/c2b5b53f031d25fe90af9971a87ee452.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/389c9379703d76b333306af6b1004cfb.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/f8a3e7acad6263afd0d646a255a38574.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/f3b7c237b29203b398a80274d67278bd.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/760c24ec3cc045c63821a4c719d5c234.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/d64c6cd9ee6cc2b57031274252265560.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/4c64c54cc44cbd64adfd5604bdd2686c.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/63d8ed64a84dddbb57151fff5c43fdc1.jpg</image>
+			</images>
+		<priceWithDiscount>2415990</priceWithDiscount><sale_price>2415990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-белыйcrystal-white-2024/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
 			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
