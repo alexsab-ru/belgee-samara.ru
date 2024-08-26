@@ -170,8 +170,8 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Flagship</complectation_name>
 			<wheel>левый</wheel>
-			<color>Чёрный (Ink Black)</color>
-			<metallic>да</metallic>
+			<color>Белый (Crystal White)</color>
+			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
@@ -184,10 +184,20 @@
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
-			<vin>Y4K8722D6RB320079</vin>
+			<vin>Y4K8722D2RB318524</vin>
 			<description />
-			<images />
-		<priceWithDiscount>3109990</priceWithDiscount><sale_price>3109990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-чёрный-ink-black-2024/</url></car>
+			<images>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/91909d2d18c821b076a0c397ad81e136.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/123a810afa6d3fb85889562df342eb96.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/48ef4d86f9bd78441cf545df0f028b5f.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/dbbfa6c9c79e313072ae5276038ab584.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/d44d89d66d8eb8b87481ad4f02c89959.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/97fa91788d18430f9a07bb08d3cecf0b.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/39b68297fb7da55beafb13fb9b2158ec.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/6fd4c3ff55de7497187ced9c7880225a.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/b4ebc5a7a915b2701261e269941aec98.jpg</image>
+			</images>
+		<priceWithDiscount>3109990</priceWithDiscount><sale_price>3109990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-белый-crystal-white-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -227,8 +237,8 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Flagship</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый (Crystal White)</color>
-			<metallic>нет</metallic>
+			<color>Чёрный (Ink Black)</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
@@ -241,20 +251,10 @@
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
-			<vin>Y4K8722D2RB318524</vin>
+			<vin>Y4K8722D6RB320079</vin>
 			<description />
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/91909d2d18c821b076a0c397ad81e136.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/123a810afa6d3fb85889562df342eb96.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/48ef4d86f9bd78441cf545df0f028b5f.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/dbbfa6c9c79e313072ae5276038ab584.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/d44d89d66d8eb8b87481ad4f02c89959.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/97fa91788d18430f9a07bb08d3cecf0b.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/39b68297fb7da55beafb13fb9b2158ec.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/6fd4c3ff55de7497187ced9c7880225a.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/b4ebc5a7a915b2701261e269941aec98.jpg</image>
-			</images>
-		<priceWithDiscount>3109990</priceWithDiscount><sale_price>3109990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-белый-crystal-white-2024/</url></car>
+			<images />
+		<priceWithDiscount>3109990</priceWithDiscount><sale_price>3109990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-чёрный-ink-black-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
