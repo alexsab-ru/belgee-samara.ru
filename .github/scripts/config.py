@@ -11,6 +11,7 @@ model_mapping = {
             "Черный": "black.webp",
             "Gray": "gray.webp",
             "Серый": "gray.webp",
+            "Серый (magnetic grey)": "gray.webp",
             "Red": "red.webp",
             "Красный": "red.webp",
             "Ярко-алый, красный (brig": "red.webp",
@@ -19,12 +20,14 @@ model_mapping = {
             "Серебристый (satin silve": "silver.webp",
             "White": "white.webp",
             "Белый": "white.webp",
+            "Белый (crystal white)": "white.webp",
         }},
     "X70": {
         "folder": "x70",
         "color": {
             "Black": "black.webp",
             "Черный": "black.webp",
+            "Чёрный (ink black)": "black.webp",
             "Blue": "blue.webp",
             "Синий": "blue.webp",
             "Gray": "gray.webp",
@@ -36,6 +39,6 @@ model_mapping = {
             "Серебристый": "silver.webp",
             "White": "white.webp",
             "Белый": "white.webp",
-            "Белый(crystal white)": "white.webp",
+            "Белый (crystal white)": "white.webp",
         }},
 }
