@@ -58,7 +58,7 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Style</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серый (Magnetic Grey)</color>
+			<color>Серебристый (Satin Silve</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -72,10 +72,22 @@
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
-			<vin>Y4K8622Z8RB932735</vin>
+			<vin>Y4K8622Z8RB932394</vin>
 			<description />
-			<images />
-		<priceWithDiscount>2415990</priceWithDiscount><sale_price>2415990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-серый-magnetic-grey-2024/</url></car>
+			<images>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/e19c56cf312317d4fd88f0414b969f57.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/5d63842daefdbd1c8e7982f1b5e48c65.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/c4393f08940237c576fe7123e27e3162.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/e2bacd74e0f20ecdfb8174f884eb1750.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/1fef26cf9a453d4539af2f1eebc26263.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/ce1bbedab391d9ff657d28aece7b4f59.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/76a18bd36a268f0948c644f7b8ea0909.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/e9041ca6d308f2dfe840fa56f1bfea32.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/a9db8ce64fe24c4ce6605328cfcfaafa.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/24db536b635438795a6be7955788224d.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/8bd8c76543b4b4b3526c1a74d2eb91b7.jpg</image>
+			</images>
+		<priceWithDiscount>2415990</priceWithDiscount><sale_price>2415990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-satin-silve-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -158,7 +170,7 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Style</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серебристый (Satin Silve</color>
+			<color>Серый (Magnetic Grey)</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -172,22 +184,10 @@
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
-			<vin>Y4K8622Z8RB932394</vin>
+			<vin>Y4K8622Z8RB932735</vin>
 			<description />
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/e19c56cf312317d4fd88f0414b969f57.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/5d63842daefdbd1c8e7982f1b5e48c65.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/c4393f08940237c576fe7123e27e3162.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/e2bacd74e0f20ecdfb8174f884eb1750.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/1fef26cf9a453d4539af2f1eebc26263.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/ce1bbedab391d9ff657d28aece7b4f59.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/76a18bd36a268f0948c644f7b8ea0909.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/e9041ca6d308f2dfe840fa56f1bfea32.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/a9db8ce64fe24c4ce6605328cfcfaafa.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/24db536b635438795a6be7955788224d.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932394/8bd8c76543b4b4b3526c1a74d2eb91b7.jpg</image>
-			</images>
-		<priceWithDiscount>2415990</priceWithDiscount><sale_price>2415990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-satin-silve-2024/</url></car>
+			<images />
+		<priceWithDiscount>2415990</priceWithDiscount><sale_price>2415990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-серый-magnetic-grey-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -230,6 +230,31 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Flagship</complectation_name>
 			<wheel>левый</wheel>
+			<color>Чёрный (Ink Black)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>3109990</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<registry_year>2024</registry_year>
+			<vin>Y4K8722D6RB320079</vin>
+			<description />
+			<images />
+		<priceWithDiscount>3109990</priceWithDiscount><sale_price>3109990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-чёрный-ink-black-2024/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Flagship</complectation_name>
+			<wheel>левый</wheel>
 			<color>Серый (Titanium Grey)</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -255,31 +280,6 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D6RB318641/24cc2be19d24b5c112910b251f707805.jpg</image>
 			</images>
 		<priceWithDiscount>3109990</priceWithDiscount><sale_price>3109990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-серый-titanium-grey-2024/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Flagship</complectation_name>
-			<wheel>левый</wheel>
-			<color>Чёрный (Ink Black)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3109990</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>Y4K8722D6RB320079</vin>
-			<description />
-			<images />
-		<priceWithDiscount>3109990</priceWithDiscount><sale_price>3109990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-чёрный-ink-black-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
