@@ -18,7 +18,7 @@ model_mapping = {
             "Ярко-алый, красный (bright vermilion)": "red.webp",
             "Silver": "silver.webp",
             "Серебристый": "silver.webp",
-            "Серебристый (pearl silver)": "silver.webp",
+            "Серебристый (satin silver)": "silver.webp",
             "White": "white.webp",
             "Белый": "white.webp",
             "Белый (crystal white)": "white.webp",
