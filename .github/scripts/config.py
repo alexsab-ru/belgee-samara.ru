@@ -9,6 +9,7 @@ model_mapping = {
         "color": {
             "Black": "black.webp",
             "Черный": "black.webp",
+            "Чёрный (ink black)": "black.webp",
             "Gray": "gray.webp",
             "Серый": "gray.webp",
             "Серый (magnetic grey)": "gray.webp",
@@ -35,8 +36,10 @@ model_mapping = {
             "Серый (titanium grey)": "gray.webp",
             "Red": "red.webp",
             "Красный": "red.webp",
+            "Ярко-алый, красный (bright vermilion)": "red.webp",
             "Silver": "silver.webp",
             "Серебристый": "silver.webp",
+            "Серебристый (pearl silver)": "silver.webp",
             "White": "white.webp",
             "Белый": "white.webp",
             "Белый (crystal white)": "white.webp",
