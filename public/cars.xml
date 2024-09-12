@@ -16,66 +16,16 @@
 			<year>2024</year>
 			<price>2305990</price>
 			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
+			<insurance_discount>15000</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>Y4K8622ZXRB927634</vin>
-			<description />
-			<images />
-		<priceWithDiscount>1985990</priceWithDiscount><sale_price>1985990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-active-белый-crystal-white-2024/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Active</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый (Crystal White)</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2305990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>Y4K8622ZXRB927617</vin>
-			<description />
-			<images />
-		<priceWithDiscount>1985990</priceWithDiscount><sale_price>1985990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-active-белый-crystal-white-2024/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Active</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый (Crystal White)</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2305990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<optional_discount>35000</optional_discount>
+			<max_discount>370000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>Y4K8622ZXRB927648</vin>
 			<description />
 			<images />
-		<priceWithDiscount>1985990</priceWithDiscount><sale_price>1985990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-active-белый-crystal-white-2024/</url></car>
+		<priceWithDiscount>1935990</priceWithDiscount><sale_price>1935990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-active-белый-crystal-white-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -91,16 +41,66 @@
 			<year>2024</year>
 			<price>2305990</price>
 			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
+			<insurance_discount>15000</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<optional_discount>35000</optional_discount>
+			<max_discount>370000</max_discount>
+			<currency>RUR</currency>
+			<registry_year>2024</registry_year>
+			<vin>Y4K8622ZXRB927617</vin>
+			<description />
+			<images />
+		<priceWithDiscount>1935990</priceWithDiscount><sale_price>1935990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-active-белый-crystal-white-2024/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Active</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый (Crystal White)</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2305990</price>
+			<credit_discount>135000</credit_discount>
+			<insurance_discount>15000</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>35000</optional_discount>
+			<max_discount>370000</max_discount>
+			<currency>RUR</currency>
+			<registry_year>2024</registry_year>
+			<vin>Y4K8622ZXRB927634</vin>
+			<description />
+			<images />
+		<priceWithDiscount>1935990</priceWithDiscount><sale_price>1935990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-active-белый-crystal-white-2024/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Active</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый (Crystal White)</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2305990</price>
+			<credit_discount>135000</credit_discount>
+			<insurance_discount>15000</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>35000</optional_discount>
+			<max_discount>370000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>Y4K8622ZXRB927620</vin>
 			<description />
 			<images />
-		<priceWithDiscount>1985990</priceWithDiscount><sale_price>1985990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-active-белый-crystal-white-2024/</url></car>
+		<priceWithDiscount>1935990</priceWithDiscount><sale_price>1935990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-active-белый-crystal-white-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -116,10 +116,10 @@
 			<year>2024</year>
 			<price>2415990</price>
 			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
+			<insurance_discount>15000</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<optional_discount>25000</optional_discount>
+			<max_discount>360000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>Y4K8622Z5RB931851</vin>
@@ -138,7 +138,7 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/4c64c54cc44cbd64adfd5604bdd2686c.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB931851/63d8ed64a84dddbb57151fff5c43fdc1.jpg</image>
 			</images>
-		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-белый-crystal-white-2024/</url></car>
+		<priceWithDiscount>2055990</priceWithDiscount><sale_price>2055990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-белый-crystal-white-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -154,10 +154,10 @@
 			<year>2024</year>
 			<price>2415990</price>
 			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
+			<insurance_discount>15000</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<optional_discount>25000</optional_discount>
+			<max_discount>360000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>Y4K8622Z8RB932735</vin>
@@ -176,7 +176,7 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932735/9a6b4a7edc1f3b60ce98fbc3fcea3c98.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB932735/d3a181898adfaf70924388f69f3c859e.jpg</image>
 			</images>
-		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-серый-magnetic-grey-2024/</url></car>
+		<priceWithDiscount>2055990</priceWithDiscount><sale_price>2055990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-серый-magnetic-grey-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -192,10 +192,10 @@
 			<year>2024</year>
 			<price>2415990</price>
 			<credit_discount>135000</credit_discount>
-			<insurance_discount>0</insurance_discount>
+			<insurance_discount>15000</insurance_discount>
 			<tradein_discount>185000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>320000</max_discount>
+			<optional_discount>25000</optional_discount>
+			<max_discount>360000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>Y4K8622Z5RB932255</vin>
@@ -213,7 +213,7 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB932255/cdf49f93bc8a0ade76721495260bb399.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB932255/1fc2f5f1bb5c72d19954b84129aba789.jpg</image>
 			</images>
-		<priceWithDiscount>2095990</priceWithDiscount><sale_price>2095990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-satin-silver-2024/</url></car>
+		<priceWithDiscount>2055990</priceWithDiscount><sale_price>2055990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-серебристый-satin-silver-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -229,10 +229,10 @@
 			<year>2024</year>
 			<price>3129990</price>
 			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
+			<insurance_discount>30000</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<optional_discount>60000</optional_discount>
+			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>Y4K8722D2RB318524</vin>
@@ -248,7 +248,7 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/6fd4c3ff55de7497187ced9c7880225a.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D2RB318524/b4ebc5a7a915b2701261e269941aec98.jpg</image>
 			</images>
-		<priceWithDiscount>2679990</priceWithDiscount><sale_price>2679990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-белый-crystal-white-2024/</url></car>
+		<priceWithDiscount>2589990</priceWithDiscount><sale_price>2589990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-белый-crystal-white-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -264,10 +264,10 @@
 			<year>2024</year>
 			<price>3129990</price>
 			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
+			<insurance_discount>30000</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<optional_discount>60000</optional_discount>
+			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>Y4K8722D6RB320079</vin>
@@ -286,7 +286,7 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D6RB320079/13986775ccbb6b8c19189795bd347d87.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D6RB320079/4339a82713308da18def5232fdf20669.jpg</image>
 			</images>
-		<priceWithDiscount>2679990</priceWithDiscount><sale_price>2679990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-чёрный-ink-black-2024/</url></car>
+		<priceWithDiscount>2589990</priceWithDiscount><sale_price>2589990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-чёрный-ink-black-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -302,10 +302,10 @@
 			<year>2024</year>
 			<price>3129990</price>
 			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
+			<insurance_discount>30000</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<optional_discount>60000</optional_discount>
+			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>Y4K8722D6RB318641</vin>
@@ -318,7 +318,7 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D6RB318641/3f6dd461ebf56572a6768351aefe7610.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D6RB318641/24cc2be19d24b5c112910b251f707805.jpg</image>
 			</images>
-		<priceWithDiscount>2679990</priceWithDiscount><sale_price>2679990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-серый-titanium-grey-2024/</url></car>
+		<priceWithDiscount>2589990</priceWithDiscount><sale_price>2589990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-серый-titanium-grey-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -334,16 +334,16 @@
 			<year>2024</year>
 			<price>3234990</price>
 			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
+			<insurance_discount>20000</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<optional_discount>30000</optional_discount>
+			<max_discount>500000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>Y4K8722D4RB321957</vin>
 			<description />
 			<images />
-		<priceWithDiscount>2784990</priceWithDiscount><sale_price>2784990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-с-люком-серебристый-pearl-silver-2024/</url></car>
+		<priceWithDiscount>2734990</priceWithDiscount><sale_price>2734990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-с-люком-серебристый-pearl-silver-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -359,15 +359,15 @@
 			<year>2024</year>
 			<price>2929990</price>
 			<credit_discount>200000</credit_discount>
-			<insurance_discount>0</insurance_discount>
+			<insurance_discount>30000</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<max_discount>450000</max_discount>
+			<optional_discount>60000</optional_discount>
+			<max_discount>540000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
 			<vin>Y4K8722D7RB322603</vin>
 			<description />
 			<images />
-		<priceWithDiscount>2479990</priceWithDiscount><sale_price>2479990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-серый-titanium-grey-2024/</url></car>
+		<priceWithDiscount>2389990</priceWithDiscount><sale_price>2389990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-серый-titanium-grey-2024/</url></car>
 	</cars>
 </data>
