@@ -133,31 +133,6 @@
 			<max_discount>370000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
-			<vin>Y4K8622Z8RB942813</vin>
-			<description />
-			<images />
-		<priceWithDiscount>2240990</priceWithDiscount><sale_price>2240990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-satin-silver-2024/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Prestige</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серебристый (Satin Silver)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2610990</price>
-			<credit_discount>135000</credit_discount>
-			<insurance_discount>15000</insurance_discount>
-			<tradein_discount>185000</tradein_discount>
-			<optional_discount>35000</optional_discount>
-			<max_discount>370000</max_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
 			<vin>Y4K8622Z8RB942794</vin>
 			<description />
 			<images />
@@ -363,6 +338,31 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z5RB940646/96168781ccce6471a75925d72bea314d.jpg</image>
 			</images>
 		<priceWithDiscount>2240990</priceWithDiscount><sale_price>2240990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-чёрный-ink-black-2024/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Prestige</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серебристый (Satin Silver)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>2610990</price>
+			<credit_discount>135000</credit_discount>
+			<insurance_discount>15000</insurance_discount>
+			<tradein_discount>185000</tradein_discount>
+			<optional_discount>35000</optional_discount>
+			<max_discount>370000</max_discount>
+			<currency>RUR</currency>
+			<registry_year>2024</registry_year>
+			<vin>Y4K8622Z8RB942813</vin>
+			<description />
+			<images />
+		<priceWithDiscount>2240990</priceWithDiscount><sale_price>2240990</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-satin-silver-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -650,46 +650,6 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Flagship</complectation_name>
 			<wheel>левый</wheel>
-			<color>Чёрный (Ink Black)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3237990</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>75000</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>75000</optional_discount>
-			<max_discount>650000</max_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>Y4K8722D8RB322061</vin>
-			<description />
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/10a46112164a033977e5f88e33370c2b.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/8a19a0103c5345b2adff01c86684f7af.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/cadf2915288c9a5ef3d5f340dc539ae7.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/154a44db50de5bc014b137042cbd7ef7.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/2218342145550dd87f241acde9630c92.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/23a6726f2ad247372a66717bc15ef707.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/14cd1eb9df7da8b3197679c558320711.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/de72597f1c8f26fe285db06bdf33d6e9.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/f610e48a771d9e994bf7854441a04e83.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/2fe1d401afb2f7f7c8a4c9636ae7f3c6.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/6019eb4a1ec348770fb72eaf893b9c23.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/aefafdd3bd8955eebcc1b6807f500e57.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/3b253b0476ce3249ba1e4c1b8c7d414d.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/249c43b893edd491551a42f9f0eece07.jpg</image>
-			</images>
-		<priceWithDiscount>2587990</priceWithDiscount><sale_price>2587990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-чёрный-ink-black-2024/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Flagship</complectation_name>
-			<wheel>левый</wheel>
 			<color>Серебристый (Pearl Silver)</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -724,6 +684,51 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D3RB328253/d04854d45291d7186248955806c4b951.jpg</image>
 			</images>
 		<priceWithDiscount>2587990</priceWithDiscount><sale_price>2587990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-серебристый-pearl-silver-2024/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Flagship</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый (Crystal White)</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>3237990</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>75000</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>75000</optional_discount>
+			<max_discount>650000</max_discount>
+			<currency>RUR</currency>
+			<registry_year>2024</registry_year>
+			<vin>Y4K8722D5RB328223</vin>
+			<description />
+			<images>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/ba07dac3ec0c2fcb7e930db46ae49201.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/1d54365ba8d0b429f13e786690571a5b.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/21af4f84ce4106698e44a085bc3855a6.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/f9e543ccfe56de7f6664632ab0dd0a5e.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/567d71c6becd0fc37920d30a5f7c67b8.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/5ff6167b1ae0f9688cb73e1bf7d59bb3.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/b1ba11a5db7549460e09bb97f4865e5a.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/8c6d627e537c0c37bff4aea2266f051a.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/d264b6b3a8256c8e0e447887e6b72bb8.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/958a92e7f268eae45b369ff05cc0d977.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/d49e66f4fc0e565b2a3b688af05aa118.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/e13ffa2f13202dd1bb2e49c3adafb4aa.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/ec5a19fd89bd7ebab8ac3aad36fe2d17.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/97a35aabbdc38e3c38d08a8a71fa1409.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/0e8ff45ce121374c00cbbbd4a936769c.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/9dcdb7a33928a0222c4353975670514d.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/9b30c842905ab043074b8fb9a1d40067.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/a6cbfa3d5dbeaa50b6458a5f9951c0fa.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/56239eca70eb123645e4e2da85aadba1.jpg</image>
+			</images>
+		<priceWithDiscount>2587990</priceWithDiscount><sale_price>2587990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-белый-crystal-white-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -888,8 +893,8 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Flagship</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый (Crystal White)</color>
-			<metallic>нет</metallic>
+			<color>Чёрный (Ink Black)</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
@@ -902,71 +907,25 @@
 			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
-			<vin>Y4K8722D5RB328223</vin>
+			<vin>Y4K8722D8RB322061</vin>
 			<description />
 			<images>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/ba07dac3ec0c2fcb7e930db46ae49201.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/1d54365ba8d0b429f13e786690571a5b.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/21af4f84ce4106698e44a085bc3855a6.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/f9e543ccfe56de7f6664632ab0dd0a5e.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/567d71c6becd0fc37920d30a5f7c67b8.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/5ff6167b1ae0f9688cb73e1bf7d59bb3.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/b1ba11a5db7549460e09bb97f4865e5a.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/8c6d627e537c0c37bff4aea2266f051a.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/d264b6b3a8256c8e0e447887e6b72bb8.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/958a92e7f268eae45b369ff05cc0d977.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/d49e66f4fc0e565b2a3b688af05aa118.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/e13ffa2f13202dd1bb2e49c3adafb4aa.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/ec5a19fd89bd7ebab8ac3aad36fe2d17.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/97a35aabbdc38e3c38d08a8a71fa1409.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/0e8ff45ce121374c00cbbbd4a936769c.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/9dcdb7a33928a0222c4353975670514d.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/9b30c842905ab043074b8fb9a1d40067.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/a6cbfa3d5dbeaa50b6458a5f9951c0fa.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D5RB328223/56239eca70eb123645e4e2da85aadba1.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/10a46112164a033977e5f88e33370c2b.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/8a19a0103c5345b2adff01c86684f7af.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/cadf2915288c9a5ef3d5f340dc539ae7.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/154a44db50de5bc014b137042cbd7ef7.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/2218342145550dd87f241acde9630c92.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/23a6726f2ad247372a66717bc15ef707.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/14cd1eb9df7da8b3197679c558320711.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/de72597f1c8f26fe285db06bdf33d6e9.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/f610e48a771d9e994bf7854441a04e83.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/2fe1d401afb2f7f7c8a4c9636ae7f3c6.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/6019eb4a1ec348770fb72eaf893b9c23.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/aefafdd3bd8955eebcc1b6807f500e57.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/3b253b0476ce3249ba1e4c1b8c7d414d.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB322061/249c43b893edd491551a42f9f0eece07.jpg</image>
 			</images>
-		<priceWithDiscount>2587990</priceWithDiscount><sale_price>2587990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-белый-crystal-white-2024/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Flagship с люком</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый (Titanium Grey)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3342990</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>75000</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>75000</optional_discount>
-			<max_discount>650000</max_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>Y4K8722D0RB325200</vin>
-			<description />
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/f72921c234d3fd98ed585a6ac6502ca2.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/7cc0994257e970ceb1b04000ea706399.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/3e37e706573c1855602dc41ef504dc0a.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/e95ae1455ee414b866ee078823b949b4.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/1e5ff5cbe4b5c5fa9f4005c1bab9e316.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/2a498278d4fb96b1f6dadf7b70742c24.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/2e0d173042dc0772999d17f65dd8dc48.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/009e49351fa23ab97b7b36358f9375c1.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/3d6a448d23ee4b3f2f0a3e9fdf08f6d6.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/fc5fa78710f2c0d6f530154413287e78.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/765270d7eb865e72d4d1e6f9063f88e9.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/7718c79ffc01379ef0cfa62e7092866d.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/402f21670054334d2f42e883a4389b19.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/02985137eec6e43951a1f7a8ae767e67.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/8b2c83dd68f3d7f6aa80376efdc3721e.jpg</image>
-			</images>
-		<priceWithDiscount>2692990</priceWithDiscount><sale_price>2692990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-с-люком-серый-titanium-grey-2024/</url></car>
+		<priceWithDiscount>2587990</priceWithDiscount><sale_price>2587990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-чёрный-ink-black-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -1087,6 +1046,47 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D4RB321957/9ca216552c74dd8b5b327c376a70dd86.jpg</image>
 			</images>
 		<priceWithDiscount>2692990</priceWithDiscount><sale_price>2692990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-с-люком-серебристый-pearl-silver-2024/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Flagship с люком</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый (Titanium Grey)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>3342990</price>
+			<credit_discount>250000</credit_discount>
+			<insurance_discount>75000</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<optional_discount>75000</optional_discount>
+			<max_discount>650000</max_discount>
+			<currency>RUR</currency>
+			<registry_year>2024</registry_year>
+			<vin>Y4K8722D0RB325200</vin>
+			<description />
+			<images>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/f72921c234d3fd98ed585a6ac6502ca2.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/7cc0994257e970ceb1b04000ea706399.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/3e37e706573c1855602dc41ef504dc0a.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/e95ae1455ee414b866ee078823b949b4.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/1e5ff5cbe4b5c5fa9f4005c1bab9e316.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/2a498278d4fb96b1f6dadf7b70742c24.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/2e0d173042dc0772999d17f65dd8dc48.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/009e49351fa23ab97b7b36358f9375c1.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/3d6a448d23ee4b3f2f0a3e9fdf08f6d6.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/fc5fa78710f2c0d6f530154413287e78.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/765270d7eb865e72d4d1e6f9063f88e9.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/7718c79ffc01379ef0cfa62e7092866d.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/402f21670054334d2f42e883a4389b19.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/02985137eec6e43951a1f7a8ae767e67.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D0RB325200/8b2c83dd68f3d7f6aa80376efdc3721e.jpg</image>
+			</images>
+		<priceWithDiscount>2692990</priceWithDiscount><sale_price>2692990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-flagship-с-люком-серый-titanium-grey-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -1396,7 +1396,7 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Luxury 4х4</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серый (Titanium Grey)</color>
+			<color>Серебристый (Pearl Silver)</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -1410,27 +1410,25 @@
 			<max_discount>650000</max_discount>
 			<currency>RUR</currency>
 			<registry_year>2024</registry_year>
-			<vin>Y4K8722D8RB326157</vin>
+			<vin>Y4K8722D7RB326098</vin>
 			<description />
 			<images>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/5fa9bb224b8b2b042b9dd54cbf08ff48.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/b52e82cf8c919f38cb226577fcb7b8a1.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/ab62967583fe371260759aeee3a8a4c9.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/d1b1dd66bea910cec9a0951f87127bb7.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/e067ab7ee5cc9b8fe644518927a7f9e6.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/d58eeff6a8e95d4c0e33476588105c0a.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/f920a95f84af672524eb9385a753ab8b.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/3cce342db5a1f58c2d44ebaecc4afa18.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/c59790bbe5bfc28e4e15acce5128f312.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/c181b5092c5d720a1015b2824b627c34.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/d1f8df0dfe85c94e82e3338b14806cc1.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/925b86d5e039ba14131797beed01e75f.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/25f857931e7fbcb157c964d829adac27.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/a5e6b9b645b069171593818934081cdd.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/133d3e297261d0d075896eb62d82bd2c.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D8RB326157/2f8849cd3341330e68e4786f466e39eb.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/7f5e01172fddc84ae882a209d4a27f68.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/e65c297464dd5ab286062797a1884133.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/f2f36abb4cda5032d6827370d75ecb1f.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/ab09446da6316afc03533ccec937057d.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/4a29ba957646547eb56c692bf8106fbe.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/9c3599a81851324fb850a6dce4ad1955.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/0111cfe2b89998edc55e7d02749bd818.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/fed09982e3214086592c4d5343a3ab91.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/ece5269deed11ce7e013be4a93c7444f.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/3e187a049fa31c0efdec7cce739a5c9a.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/08c77bfdb494fcd51c3aa8c54d430845.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/528d7ca780b51dc769441a83b6a9d4c6.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/2d3a7b0131be29fa4b1aa1313dd6fb10.jpg</image>
+				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/8a8adb937dfb76303983ac2925f76785.jpg</image>
 			</images>
-		<priceWithDiscount>2387990</priceWithDiscount><sale_price>2387990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-серый-titanium-grey-2024/</url></car>
+		<priceWithDiscount>2387990</priceWithDiscount><sale_price>2387990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-серебристый-pearl-silver-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -1471,46 +1469,6 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D6RB330014/7cc4c7e8659053ee84818eef976742b9.jpg</image>
 			</images>
 		<priceWithDiscount>2387990</priceWithDiscount><sale_price>2387990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-чёрный-ink-black-2024/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury 4х4</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серебристый (Pearl Silver)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3037990</price>
-			<credit_discount>250000</credit_discount>
-			<insurance_discount>75000</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>75000</optional_discount>
-			<max_discount>650000</max_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>Y4K8722D7RB326098</vin>
-			<description />
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/7f5e01172fddc84ae882a209d4a27f68.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/e65c297464dd5ab286062797a1884133.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/f2f36abb4cda5032d6827370d75ecb1f.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/ab09446da6316afc03533ccec937057d.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/4a29ba957646547eb56c692bf8106fbe.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/9c3599a81851324fb850a6dce4ad1955.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/0111cfe2b89998edc55e7d02749bd818.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/fed09982e3214086592c4d5343a3ab91.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/ece5269deed11ce7e013be4a93c7444f.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/3e187a049fa31c0efdec7cce739a5c9a.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/08c77bfdb494fcd51c3aa8c54d430845.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/528d7ca780b51dc769441a83b6a9d4c6.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/2d3a7b0131be29fa4b1aa1313dd6fb10.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D7RB326098/8a8adb937dfb76303983ac2925f76785.jpg</image>
-			</images>
-		<priceWithDiscount>2387990</priceWithDiscount><sale_price>2387990</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-серебристый-pearl-silver-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
