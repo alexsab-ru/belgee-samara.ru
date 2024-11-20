@@ -51,10 +51,9 @@ def create_file(car, filename, unique_id):
 
     content += f"breadcrumb: {build_unique_id(car, 'mark_id', 'folder_id', 'complectation_name')}\n"
 
-    content += f"title: Купить {build_unique_id(car, 'mark_id', 'folder_id', 'modification_id')} у официального дилера в {dealer.get('where')}\n"
+    content += f"""title: 'Купить {build_unique_id(car, 'mark_id', 'folder_id')} {f'{car.find("color").text}' if car.find("color").text != None else ''} от {car.find('priceWithDiscount').text} р. в {dealer.get('where')}. Цены и комплектации на новые авто в автосалоне официального дилера {car.find('mark_id').text}'\n"""
 
-    content += f"description: |\n"
-    content += f"""  Купить автомобиль {build_unique_id(car, 'mark_id', 'folder_id')}{f' {car.find("year").text} года выпуска' if car.find("year").text else ''}{f', комплектация {car.find("complectation_name").text}' if car.find("complectation_name").text != None else ''}{f', цвет - {car.find("color").text}' if car.find("color").text != None else ''}{f', двигатель - {car.find("modification_id").text}' if car.find("modification_id").text != None else ''} у официального дилера в г. {dealer.get('city')}. Стоимость данного автомобиля {build_unique_id(car, 'mark_id', 'folder_id')} – {car.find('priceWithDiscount').text}\n"""
+    content += f"""description: '{car.find("mark_id").text} {model_mapping[model]['cyrillic']} {f'{car.find("color").text}' if car.find("color").text != None else ''} купить в {dealer.get('where')}. Кредит от 0,01%, авторассрочка, скидки на все автомобили от розничной цены. Гарантия 3 года или 100 000 км. Звонить по тел.: +7 (846) 377-73-00'\n"""
 
     description = ""
 

@@ -6,6 +6,7 @@ dealer = {
 model_mapping = {
     "X50": {
         "folder": "x50",
+        "cyrillic": "Х50",
         "color": {
             "Black": "black.webp",
             "Черный": "black.webp",
@@ -25,6 +26,7 @@ model_mapping = {
         }},
     "X70": {
         "folder": "x70",
+        "cyrillic": "Х70",
         "color": {
             "Black": "black.webp",
             "Черный": "black.webp",
