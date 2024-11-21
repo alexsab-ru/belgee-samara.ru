@@ -51,7 +51,8 @@ def create_file(car, filename, unique_id):
 
     content += f"""title: 'Купить {build_unique_id(car, 'mark_id', 'folder_id')} {f'{car.find("color").text}' if car.find("color").text != None else ''} от {car.find('priceWithDiscount').text} р. в {dealer.get('where')}. Цены и комплектации на новые авто в автосалоне официального дилера {car.find('mark_id').text}'\n"""
 
-    content += f"""description: '{car.find("mark_id").text} {model_mapping[model]['cyrillic']} {f'{car.find("color").text}' if car.find("color").text != None else ''} купить в {dealer.get('where')}. Кредит от 0,01%, авторассрочка, скидки на все автомобили от розничной цены. Гарантия 3 года или 100 000 км. Звонить по тел.: +7 (846) 377-73-00'\n"""
+    cyrillic = get_cyrillic(brand, model)
+    content += f"""description: '{car.find("mark_id").text} {cyrillic} {f'{car.find("color").text}' if car.find("color").text != None else ''} купить в {dealer.get('where')}. Кредит от 0,01%, авторассрочка, скидки на все автомобили от розничной цены. Гарантия 3 года или 100 000 км. Звонить по тел.: +7 (846) 377-73-00'\n"""
 
     description = ""
 
