@@ -311,8 +311,8 @@ def load_price_data(file_path: str = "./src/data/cars_dealer_price.json") -> Dic
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             return json.load(file)
-    except Exception as e:
-        print(f"Ошибка при загрузке файла цен: {str(e)}")
+    except Exception:
+        # print(f"Ошибка при загрузке файла цен: {str(e)}")
         return {}
 
 # Пример использования:
