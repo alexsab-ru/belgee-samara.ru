@@ -451,7 +451,9 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, ele
 
     content += f"breadcrumb: {join_car_data(car, 'mark_id', 'folder_id', 'complectation_name')}\n"
 
-    content += f"title: 'Купить {join_car_data(car, 'mark_id', 'folder_id', 'modification_id')} у официального дилера в {dealer.get('where')}'\n"
+    # content += f"title: 'Купить {join_car_data(car, 'mark_id', 'folder_id', 'modification_id')} у официального дилера в {dealer.get('where')}'\n"
+    content += f"""title: 'Купить {join_car_data(car, 'mark_id', 'folder_id')} {f'{car.find("color").text}' if car.find("color").text != None else ''} от {car.find('priceWithDiscount').text} р. в {dealer.get('where')}. Цены и комплектации на новые авто в автосалоне официального дилера {car.find('mark_id').text}'\n"""
+
 
     description = (
         f'Купить автомобиль {join_car_data(car, "mark_id", "folder_id")}'
@@ -461,7 +463,9 @@ def create_file(car, filename, friendly_url, current_thumbs, existing_files, ele
         f'{", двигатель - " + car.find("modification_id").text if car.find("modification_id").text != None else ""}'
         f' у официального дилера в г. {dealer.get("city")}. Стоимость данного автомобиля {join_car_data(car, "mark_id", "folder_id")} – {car.find("priceWithDiscount").text}'
     )
-    content += f"description: '{description}'\n"
+    # content += f"description: '{description}'\n"
+    cyrillic = get_cyrillic(brand, model)
+    content += f"""description: '{car.find("mark_id").text} {cyrillic} {f'{car.find("color").text}' if car.find("color").text != None else ''} купить в {dealer.get('where')}. Кредит от 0,01%, авторассрочка, скидки на все автомобили от розничной цены. Гарантия 3 года или 100 000 км. Звонить по тел.: +7 (846) 377-73-00'\n"""
 
     description = ""
 
@@ -590,7 +594,11 @@ def update_yaml(car, filename, friendly_url, current_thumbs, config):
                 f'{", двигатель - " + car.find("modification_id").text if car.find("modification_id").text != None else ""}'
                 f' у официального дилера в г. {dealer.get("city")}. Стоимость данного автомобиля {join_car_data(car, "mark_id", "folder_id")} – {car.find("priceWithDiscount").text}'
             )
-            data["description"] = description
+            # data["description"] = description
+            model = car.find('folder_id').text.strip()
+            brand = car.find('mark_id').text.strip()
+            cyrillic = get_cyrillic(brand, model)
+            data["description"] = f"""{car.find("mark_id").text} {cyrillic} {f'{car.find("color").text}' if car.find("color").text != None else ''} купить в {dealer.get('where')}. Кредит от 0,01%, авторассрочка, скидки на все автомобили от розничной цены. Гарантия 3 года или 100 000 км. Звонить по тел.: +7 (846) 377-73-00"""
         except ValueError:
             # В случае, если не удается преобразовать значения в int,
             # можно оставить текущее значение data['priceWithDiscount'] или установить его в 0,
