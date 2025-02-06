@@ -58,7 +58,7 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>2690190</price>
+			<price>2540000</price>
 			<credit_discount>280000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>250000</tradein_discount>
@@ -84,7 +84,7 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB938177/caba7c1660ad37b853799dfff6cc6540.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z8RB938177/ed3f70d1cca115736f667bb20f0ee739.jpg</image>
 			</images>
-		<max_discount>530000</max_discount><priceWithDiscount>2160190</priceWithDiscount><sale_price>2160190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-crystal-white-2024/</url></car>
+		<max_discount>530000</max_discount><priceWithDiscount>2010000</priceWithDiscount><sale_price>2010000</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-crystal-white-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -645,7 +645,7 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>2946190</price>
+			<price>2745000</price>
 			<credit_discount>330000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>300000</tradein_discount>
@@ -673,7 +673,7 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722Z0RB327153/e8dc48dc5accf20946ec64f5a21f3e1e.jpg</image>
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722Z0RB327153/d7224f4469a5bb5e9360d2648d2168e9.jpg</image>
 			</images>
-		<max_discount>630000</max_discount><priceWithDiscount>2316190</priceWithDiscount><sale_price>2316190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-at-177-лс-luxury-fwd-белый-crystal-white-2024/</url></car>
+		<max_discount>630000</max_discount><priceWithDiscount>2115000</priceWithDiscount><sale_price>2115000</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-at-177-лс-luxury-fwd-белый-crystal-white-2024/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
