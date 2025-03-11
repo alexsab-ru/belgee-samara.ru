@@ -1,7 +1,7 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 // Название сайта по умолчанию
-export const SITE_NAME = 'Белджи Самара';
+export const SITE_NAME = 'Самара';
 // Юр лицо
 export const LEGAL_ENTITY = 'ООО «Центр на Московском»';
 // ИНН
