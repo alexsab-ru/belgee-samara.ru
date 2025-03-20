@@ -95,44 +95,6 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Style</complectation_name>
 			<wheel>левый</wheel>
-			<color>Чёрный (Ink Black)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2590190</price>
-			<credit_discount>275000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>275000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>Y4K8622Z3RB936501</vin>
-			<description />
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/4e616b9eae8b5b8b64789232d577f65a.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/d80aa097f714c122c777af86ca967c51.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/86e8a4afcc459c0c53b0cd7e56ac1189.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/754b54f65610a16e0c8c506e66a7ef14.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/71333f0c005a8e5c754be4b87f43f2d6.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/6c6394d1e5be2860ef89f92d6f37bbe3.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/734fa57bcf930dc46c855f62cea157f2.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/62debe87b1d7812a9a44aed63142c365.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/746a58b4f9a190fba1a6ea79a7c3611c.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/f93ff6102f6df23533327ae6575cf067.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/b111b1895b180187b8c4e488223a2f35.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/904636001f72766c6ba11626ab57978f.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z3RB936501/e0b6094d4201563e5f1f7146d87857f2.jpg</image>
-			</images>
-		<max_discount>0</max_discount><priceWithDiscount>2590190</priceWithDiscount><sale_price>2590190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-style-чёрный-ink-black-2024/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Style</complectation_name>
-			<wheel>левый</wheel>
 			<color>Серый (Magnetic Grey)</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
