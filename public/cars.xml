@@ -274,29 +274,5 @@
 				<image>https://cars.avto-provereno.ru/feeds//Y4K8722D3RB325191/8bfe0b56a9d72c115f0ed68fccaa26dc.jpg</image>
 			</images>
 		<max_discount>800000</max_discount><priceWithDiscount>2626190</priceWithDiscount><sale_price>2626190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-серебристый-pearl-silver-2024/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury 4х4</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серебристый (Pearl Silver)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3121190</price>
-			<credit_discount>340000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>340000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>Y4K8722D7RB332158</vin>
-			<description />
-			<images />
-		<max_discount>680000</max_discount><priceWithDiscount>2441190</priceWithDiscount><sale_price>2441190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-серебристый-pearl-silver-2024/</url></car>
 	</cars>
 </data>
