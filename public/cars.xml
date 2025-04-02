@@ -7,46 +7,6 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Prestige</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый (Crystal White)</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>2690190</price>
-			<credit_discount>280000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>Y4K8622Z2RB943133</vin>
-			<description />
-			<images>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/5b607b8143bfb075f5301c0657f1fe74.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/23e38fe462b89472e282d9827659cbc6.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/49f51138fd26ece6b800da3a2aab390d.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/4ed85b04e85efc38ed379683ede93aed.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/efaf140a4e59b42c72b556f094631e8f.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/4542f0f8ff5d23b23c56ebcc2d942abd.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/fa7316a469fa8159a9a950df924285fe.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/e429b22249abbb60fcfe987390de10cf.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/75a1e9197870f5935a6f6902ef3921bf.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/d6d010bff35d5b6f54b73f0f2aa7780f.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/743564475b3f9af1e13013306c00f31c.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/4ad15c8bd48071b2f58d6290700ba412.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/ec27e4c765522bc0b6a1e85d5f03e7b5.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/29b7b6d1458a47a0f0cb00d327548cf7.jpg</image>
-				<image>https://cars.avto-provereno.ru/feeds//Y4K8622Z2RB943133/d07017e1d0128ee028776674b844064e.jpg</image>
-			</images>
-		<max_discount>530000</max_discount><priceWithDiscount>2160190</priceWithDiscount><sale_price>2160190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-crystal-white-2024/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Prestige</complectation_name>
-			<wheel>левый</wheel>
 			<color>Чёрный (Ink Black)</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
