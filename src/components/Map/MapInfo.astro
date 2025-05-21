@@ -6,11 +6,8 @@ interface Props {
 
 const {salons = [], classes = ''} = Astro.props;
 
-import { SITE_NAME, LEGAL_ENTITY, LEGAL_INN } from '@/const'
-
-import { phoneFormat } from '@/js/utils/numbers.format';
-
-import {Icon} from 'astro-icon/components';
+import settings from '@/data/settings.json';
+const { site_name } = settings;
 
 import InfoItem from '@/components/Contacts/InfoItem.astro';
 const space = salons.length > 1 ? 'space-y-2' : 'space-y-4';
@@ -23,7 +20,7 @@ const space = salons.length > 1 ? 'space-y-2' : 'space-y-4';
 		</div>
 		<div
 			class="text-xl sm:text-2xl leading-none uppercase tracking-wider sm:tracking-normal">
-			{SITE_NAME}
+			{site_name}
 		</div>
 	</div>
 
