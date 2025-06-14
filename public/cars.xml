@@ -286,32 +286,8 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Luxury 4х4</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серебристый (Pearl Silver)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2024</year>
-			<price>3121190</price>
-			<credit_discount>530000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2024</registry_year>
-			<vin>Y4K8722D2RB332150</vin>
-			<description />
-			<images />
-		<max_discount>730000</max_discount><priceWithDiscount>2391190</priceWithDiscount><sale_price>2391190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-серебристый-pearl-silver-2024/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury 4х4</complectation_name>
-			<wheel>левый</wheel>
-			<color>Чёрный (Ink Black)</color>
-			<metallic>да</metallic>
+			<color>Белый (Crystal White)</color>
+			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
@@ -323,10 +299,10 @@
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2025</registry_year>
-			<vin>Y4K8722D5RB331719</vin>
+			<vin>Y4K8722D2SB304774</vin>
 			<description />
 			<images />
-		<max_discount>730000</max_discount><priceWithDiscount>2391190</priceWithDiscount><sale_price>2391190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-чёрный-ink-black-2025/</url></car>
+		<max_discount>730000</max_discount><priceWithDiscount>2391190</priceWithDiscount><sale_price>2391190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-белый-crystal-white-2025/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -358,7 +334,7 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Luxury 4х4</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серебристый (Pearl Silver)</color>
+			<color>Чёрный (Ink Black)</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -371,34 +347,10 @@
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2025</registry_year>
-			<vin>Y4K8722D0SB307236</vin>
+			<vin>Y4K8722D5RB331719</vin>
 			<description />
 			<images />
-		<max_discount>730000</max_discount><priceWithDiscount>2391190</priceWithDiscount><sale_price>2391190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-серебристый-pearl-silver-2025/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury 4х4</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый (Crystal White)</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>3121190</price>
-			<credit_discount>530000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2025</registry_year>
-			<vin>Y4K8722D2SB304774</vin>
-			<description />
-			<images />
-		<max_discount>730000</max_discount><priceWithDiscount>2391190</priceWithDiscount><sale_price>2391190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-белый-crystal-white-2025/</url></car>
+		<max_discount>730000</max_discount><priceWithDiscount>2391190</priceWithDiscount><sale_price>2391190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-чёрный-ink-black-2025/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -423,5 +375,53 @@
 			<description />
 			<images />
 		<max_discount>730000</max_discount><priceWithDiscount>2391190</priceWithDiscount><sale_price>2391190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-серый-titanium-grey-2025/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury 4х4</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серебристый (Pearl Silver)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2024</year>
+			<price>3121190</price>
+			<credit_discount>530000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<registry_year>2024</registry_year>
+			<vin>Y4K8722D2RB332150</vin>
+			<description />
+			<images />
+		<max_discount>730000</max_discount><priceWithDiscount>2391190</priceWithDiscount><sale_price>2391190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-серебристый-pearl-silver-2024/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury 4х4</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серебристый (Pearl Silver)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>3121190</price>
+			<credit_discount>530000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<registry_year>2025</registry_year>
+			<vin>Y4K8722D0SB307236</vin>
+			<description />
+			<images />
+		<max_discount>730000</max_discount><priceWithDiscount>2391190</priceWithDiscount><sale_price>2391190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-luxury-4х4-серебристый-pearl-silver-2025/</url></car>
 	</cars>
 </data>
