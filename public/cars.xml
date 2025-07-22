@@ -7,78 +7,6 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Prestige</complectation_name>
 			<wheel>левый</wheel>
-			<color>Ярко-алый, красный (Bright Vermilion)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>2690190</price>
-			<credit_discount>260000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2025</registry_year>
-			<vin>Y4K8622Z2SB915340</vin>
-			<description />
-			<images />
-		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-ярко-алый-красный-bright-vermilion-2025/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Prestige</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серебристый (Satin Silver)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>2690190</price>
-			<credit_discount>260000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2025</registry_year>
-			<vin>Y4K8622Z2SB914222</vin>
-			<description />
-			<images />
-		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-satin-silver-2025/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Prestige</complectation_name>
-			<wheel>левый</wheel>
-			<color>Чёрный (Ink Black)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>2690190</price>
-			<credit_discount>260000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2025</registry_year>
-			<vin>Y4K8622ZXSB924853</vin>
-			<description />
-			<images />
-		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-чёрный-ink-black-2025/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Prestige</complectation_name>
-			<wheel>левый</wheel>
 			<color>Белый (Crystal White)</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -127,6 +55,30 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Prestige</complectation_name>
 			<wheel>левый</wheel>
+			<color>Чёрный (Ink Black)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>2690190</price>
+			<credit_discount>260000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<registry_year>2025</registry_year>
+			<vin>Y4K8622ZXSB924853</vin>
+			<description />
+			<images />
+		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-чёрный-ink-black-2025/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Prestige</complectation_name>
+			<wheel>левый</wheel>
 			<color>Серый (Magnetic Grey)</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -144,30 +96,6 @@
 			<description />
 			<images />
 		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-magnetic-grey-2025/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Prestige</complectation_name>
-			<wheel>левый</wheel>
-			<color>Синий (Starry Night Blue)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>2690190</price>
-			<credit_discount>260000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2025</registry_year>
-			<vin>Y4K8622Z5SB917938</vin>
-			<description />
-			<images />
-		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-синий-starry-night-blue-2025/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -199,6 +127,54 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Prestige</complectation_name>
 			<wheel>левый</wheel>
+			<color>Серый (Magnetic Grey)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>2690190</price>
+			<credit_discount>260000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<registry_year>2025</registry_year>
+			<vin>Y4K8622Z5SB905868</vin>
+			<description />
+			<images />
+		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-magnetic-grey-2025/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Prestige</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серебристый (Satin Silver)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>2690190</price>
+			<credit_discount>260000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<registry_year>2025</registry_year>
+			<vin>Y4K8622Z2SB914222</vin>
+			<description />
+			<images />
+		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-satin-silver-2025/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Prestige</complectation_name>
+			<wheel>левый</wheel>
 			<color>Серебристый (Satin Silver)</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -216,6 +192,78 @@
 			<description />
 			<images />
 		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-satin-silver-2025/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Prestige</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серебристый (Satin Silver)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>2690190</price>
+			<credit_discount>260000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<registry_year>2025</registry_year>
+			<vin>Y4K8622Z0SB910105</vin>
+			<description />
+			<images />
+		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-satin-silver-2025/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Prestige</complectation_name>
+			<wheel>левый</wheel>
+			<color>Ярко-алый, красный (Bright Vermilion)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>2690190</price>
+			<credit_discount>260000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<registry_year>2025</registry_year>
+			<vin>Y4K8622Z2SB915340</vin>
+			<description />
+			<images />
+		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-ярко-алый-красный-bright-vermilion-2025/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X50</folder_id>
+			<modification_id>1.5 AMT (150 л.с.)</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Prestige</complectation_name>
+			<wheel>левый</wheel>
+			<color>Синий (Starry Night Blue)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>2690190</price>
+			<credit_discount>260000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<registry_year>2025</registry_year>
+			<vin>Y4K8622Z5SB917938</vin>
+			<description />
+			<images />
+		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-синий-starry-night-blue-2025/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -264,78 +312,6 @@
 			<description />
 			<images />
 		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-синий-starry-night-blue-2025/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Prestige</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый (Magnetic Grey)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>2690190</price>
-			<credit_discount>260000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2025</registry_year>
-			<vin>Y4K8622Z5SB905868</vin>
-			<description />
-			<images />
-		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-серый-magnetic-grey-2025/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Prestige</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серебристый (Satin Silver)</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>2690190</price>
-			<credit_discount>260000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2025</registry_year>
-			<vin>Y4K8622Z0SB910105</vin>
-			<description />
-			<images />
-		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-серебристый-satin-silver-2025/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X50</folder_id>
-			<modification_id>1.5 AMT (150 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Prestige</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый (Crystal White)</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>2690190</price>
-			<credit_discount>260000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2025</registry_year>
-			<vin>Y4K8622Z1SB904622</vin>
-			<description />
-			<images />
-		<max_discount>460000</max_discount><priceWithDiscount>2230190</priceWithDiscount><sale_price>2230190</sale_price><url>https://belgee-samara.ru/cars/belgee-x50-15-amt-150-лс-prestige-белый-crystal-white-2025/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X50</folder_id>
@@ -391,6 +367,30 @@
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Prestige+</complectation_name>
 			<wheel>левый</wheel>
+			<color>Чёрный (Ink Black)</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>3321190</price>
+			<credit_discount>600000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>200000</tradein_discount>
+			<optional_discount>0</optional_discount>
+			<currency>RUR</currency>
+			<registry_year>2025</registry_year>
+			<vin>Y4K8722D7SB309226</vin>
+			<description />
+			<images />
+		<max_discount>800000</max_discount><priceWithDiscount>2521190</priceWithDiscount><sale_price>2521190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-чёрный-ink-black-2025/</url></car>
+		<car>
+			<mark_id>BELGEE</mark_id>
+			<folder_id>X70</folder_id>
+			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Prestige+</complectation_name>
+			<wheel>левый</wheel>
 			<color>Серый (Titanium Grey)</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -435,27 +435,27 @@
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
-			<modification_id>1.5 AMT (177 л.с.) 4WD</modification_id>
+			<modification_id>1.5 AT (177 л.с.)</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Prestige+</complectation_name>
+			<complectation_name>Luxury FWD</complectation_name>
 			<wheel>левый</wheel>
-			<color>Чёрный (Ink Black)</color>
-			<metallic>да</metallic>
+			<color>Белый (Crystal White)</color>
+			<metallic>нет</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>3321190</price>
-			<credit_discount>600000</credit_discount>
+			<price>2946190</price>
+			<credit_discount>430000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
 			<optional_discount>0</optional_discount>
 			<currency>RUR</currency>
 			<registry_year>2025</registry_year>
-			<vin>Y4K8722D7SB309226</vin>
+			<vin>Y4K8722Z0SB311895</vin>
 			<description />
 			<images />
-		<max_discount>800000</max_discount><priceWithDiscount>2521190</priceWithDiscount><sale_price>2521190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-amt-177-лс-4wd-prestige-plus-чёрный-ink-black-2025/</url></car>
+		<max_discount>630000</max_discount><priceWithDiscount>2316190</priceWithDiscount><sale_price>2316190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-at-177-лс-luxury-fwd-белый-crystal-white-2025/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
@@ -480,30 +480,6 @@
 			<description />
 			<images />
 		<max_discount>630000</max_discount><priceWithDiscount>2316190</priceWithDiscount><sale_price>2316190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-at-177-лс-luxury-fwd-чёрный-ink-black-2025/</url></car>
-		<car>
-			<mark_id>BELGEE</mark_id>
-			<folder_id>X70</folder_id>
-			<modification_id>1.5 AT (177 л.с.)</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury FWD</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый (Crystal White)</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>2946190</price>
-			<credit_discount>430000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<optional_discount>0</optional_discount>
-			<currency>RUR</currency>
-			<registry_year>2025</registry_year>
-			<vin>Y4K8722Z0SB311895</vin>
-			<description />
-			<images />
-		<max_discount>630000</max_discount><priceWithDiscount>2316190</priceWithDiscount><sale_price>2316190</sale_price><url>https://belgee-samara.ru/cars/belgee-x70-15-at-177-лс-luxury-fwd-белый-crystal-white-2025/</url></car>
 		<car>
 			<mark_id>BELGEE</mark_id>
 			<folder_id>X70</folder_id>
